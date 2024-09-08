@@ -1,0 +1,5 @@
+google-cloud-bigquery==3.25.0
+google-cloud-storage==2.18.2
+webdriver-manager==4.0.2
+selenium==4.24.0
+pandas==2.2.2
